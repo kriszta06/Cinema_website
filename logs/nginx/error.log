@@ -1,0 +1,2 @@
+2024/10/13 05:19:10 [error] 13032#9760: *27 directory index of "C:/Users/Kriszta/Local Sites/proiectgt/app/public/demo/" is forbidden, client: ::1, server: , request: "GET /demo/ HTTP/1.1", host: "proiectgt.local:10004"
+2024/10/13 05:19:16 [error] 13032#9760: *29 directory index of "C:/Users/Kriszta/Local Sites/proiectgt/app/public/demo/" is forbidden, client: ::1, server: , request: "GET /demo/ HTTP/1.1", host: "proiectgt.local:10004"
