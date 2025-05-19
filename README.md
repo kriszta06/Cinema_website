@@ -1,6 +1,6 @@
 # Cinema_website
 
-Proiectul Cinema_website reprezintă un site pentru pasionații de filme, unde aceștia își pot căuta filmele preferate și își pot exprima părerea despre acesta, sau pot citi alte păreri despre filmul pe care urmează să îl vizioneze. 
+Proiectul Cinema_website reprezintă un site pentru pasionații de filme, unde aceștia își pot căuta filmele preferate și își pot exprima părerea despre acestea, sau pot citi alte păreri despre filmul pe care urmează să îl vizioneze. 
 
 ## Tehnologii folosite:
 - WordPress
